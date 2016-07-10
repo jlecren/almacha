@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Piment",
+    "nbStock": 4,
+    "nbUsed": 3
+  },
+  {
+    "name": "Poil de chat",
+    "nbStock": 7,
+    "nbUsed": 3
+  },
+  {
+    "name": "Vinaigre",
+    "nbStock": 12,
+    "nbUsed": 2
+  },
+  {
+    "name": "Tête de rat",
+    "nbStock": 16,
+    "nbUsed": 2
+  },
+  {
+    "name": "Défense de sanglier",
+    "nbStock": 13,
+    "nbUsed": 3
+  },
+  {
+    "name": "Bave de lama",
+    "nbStock": 10,
+    "nbUsed": 2
+  },
+  {
+    "name": "Azote liquide",
+    "nbStock": 6,
+    "nbUsed": 3
+  },
+  {
+    "name": "Noix de coco",
+    "nbStock": 6,
+    "nbUsed": 3
+  },
+  {
+    "name": "Jus de citron",
+    "nbStock": 1,
+    "nbUsed": 3
+  },
+  {
+    "name": "Persil",
+    "nbStock": 20,
+    "nbUsed": 2
+  },
+  {
+    "name": "Alcool",
+    "nbStock": 18,
+    "nbUsed": 3
+  },
+  {
+    "name": "Iode",
+    "nbStock": 3,
+    "nbUsed": 3
+  },
+  {
+    "name": "Épines de hérisson",
+    "nbStock": 13,
+    "nbUsed": 4
+  },
+  {
+    "name": "Pétrole",
+    "nbStock": 1,
+    "nbUsed": 3
+  },
+  {
+    "name": "Argent",
+    "nbStock": 19,
+    "nbUsed": 2
+  },
+  {
+    "name": "Platine",
+    "nbStock": 4,
+    "nbUsed": 1
+  },
+  {
+    "name": "Or",
+    "nbStock": 8,
+    "nbUsed": 2
+  },
+  {
+    "name": "Poil de phacochère",
+    "nbStock": 3,
+    "nbUsed": 4
+  },
+  {
+    "name": "Trèfles à 4 feuilles",
+    "nbStock": 11,
+    "nbUsed": 2
+  },
+  {
+    "name": "Défenses d'éléphant",
+    "nbStock": 7,
+    "nbUsed": 2
+  },
+  {
+    "name": "Hélium liquide",
+    "nbStock": 4,
+    "nbUsed": 3
+  },
+  {
+    "name": "Mercure",
+    "nbStock": 5,
+    "nbUsed": 3
+  },
+  {
+    "name": "Canabis",
+    "nbStock": 20,
+    "nbUsed": 2
+  },
+  {
+    "name": "Émeraude",
+    "nbStock": 8,
+    "nbUsed": 1
+  },
+  {
+    "name": "Sel de l'Himalaya",
+    "nbStock": 13,
+    "nbUsed": 2
+  },
+  {
+    "name": "Plume de chocard",
+    "nbStock": 17,
+    "nbUsed": 2
+  },
+  {
+    "name": "Corne de chamois",
+    "nbStock": 11,
+    "nbUsed": 1
+  },
+  {
+    "name": "Poil de yéti",
+    "nbStock": 17,
+    "nbUsed": 1
+  },
+  {
+    "name": "Queue de renard",
+    "nbStock": 1,
+    "nbUsed": 3
+  },
+  {
+    "name": "Edelweiss",
+    "nbStock": 12,
+    "nbUsed": 3
+  },
+  {
+    "name": "Diamant",
+    "nbStock": 1,
+    "nbUsed": 2
+  },
+  {
+    "name": "Cendres",
+    "nbStock": 5,
+    "nbUsed": 2
+  },
+  {
+    "name": "Safran",
+    "nbStock": 8,
+    "nbUsed": 3
+  },
+  {
+    "name": "Pattes de pigeon",
+    "nbStock": 1,
+    "nbUsed": 3
+  },
+  {
+    "name": "Sang",
+    "nbStock": 7,
+    "nbUsed": 2
+  }
+]

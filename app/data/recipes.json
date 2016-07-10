@@ -1,0 +1,3998 @@
+[ 
+{
+  "name": "Sirop pour la toux",
+  "ingredients": ["Piment", "Poil de chat", "Vinaigre"]
+}, {
+  "name": "Invisibilité",
+  "ingredients": ["Jus de citron", "Pattes de pigeon", "Piment"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Alcool", "Bave de lama", "Diamant"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Trèfles à 4 feuilles", "Trèfles à 4 feuilles", "Corne de chamois"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Trèfles à 4 feuilles", "Safran", "Épines de hérisson"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Défense de sanglier", "Or", "Edelweiss"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Émeraude", "Hélium liquide", "Tête de rat"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Sang", "Corne de chamois", "Sang"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Jus de citron", "Tête de rat", "Émeraude"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Défense de sanglier", "Sang", "Edelweiss"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Persil", "Défense de sanglier", "Poil de yéti"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Jus de citron", "Iode", "Platine"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Argent", "Émeraude", "Edelweiss"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Sang", "Platine", "Tête de rat"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Plume de chocard", "Hélium liquide", "Safran"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Queue de renard", "Défense de sanglier", "Diamant"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Mercure", "Poil de yéti", "Mercure"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Poil de chat", "Défenses d'éléphant", "Poil de phacochère"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Défenses d'éléphant", "Mercure", "Cendres"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Tête de rat", "Défense de sanglier", "Pattes de pigeon"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Sang", "Hélium liquide", "Iode"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Plume de chocard", "Défenses d'éléphant", "Jus de citron"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Émeraude", "Alcool", "Sang"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Épines de hérisson", "Cendres", "Défense de sanglier"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Défense de sanglier", "Cendres", "Défense de sanglier"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Edelweiss", "Alcool", "Iode"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Plume de chocard", "Défenses d'éléphant", "Azote liquide"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Pétrole", "Défenses d'éléphant", "Piment"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Jus de citron", "Plume de chocard", "Diamant"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Défense de sanglier", "Safran", "Mercure"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Azote liquide", "Pétrole", "Iode"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Tête de rat", "Défenses d'éléphant", "Pattes de pigeon"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Épines de hérisson", "Vinaigre", "Persil"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Queue de renard", "Défense de sanglier", "Cendres"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Sang", "Épines de hérisson", "Tête de rat"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Sang", "Edelweiss", "Persil"]
+}, {
+  "name": "Aiguise-Méninges",
+  "ingredients": ["Corne de chamois", "Sel de l'Himalaya", "Jus de citron"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Épines de hérisson", "Hélium liquide", "Sel de l'Himalaya"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Pattes de pigeon", "Jus de citron", "Défenses d'éléphant"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Poil de yéti", "Poil de yéti", "Azote liquide"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Noix de coco", "Argent", "Jus de citron"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Tête de rat", "Or", "Pattes de pigeon"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Poil de chat", "Sel de l'Himalaya", "Canabis"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Défense de sanglier", "Poil de yéti", "Épines de hérisson"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Vinaigre", "Poil de phacochère", "Diamant"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Hélium liquide", "Noix de coco", "Mercure"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Piment", "Défense de sanglier", "Corne de chamois"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Bave de lama", "Jus de citron", "Plume de chocard"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Noix de coco", "Cendres", "Queue de renard"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Azote liquide", "Hélium liquide", "Poil de chat"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Trèfles à 4 feuilles", "Tête de rat", "Platine"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Piment", "Or", "Corne de chamois"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Queue de renard", "Émeraude", "Iode"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Edelweiss", "Noix de coco", "Canabis"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Iode", "Pétrole", "Azote liquide"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Cendres", "Pattes de pigeon", "Edelweiss"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Jus de citron", "Canabis", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de yéti", "Défense de sanglier"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Diamant", "Canabis", "Or"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Platine", "Cendres", "Safran"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Défenses d'éléphant", "Safran", "Noix de coco"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Poil de phacochère", "Azote liquide", "Poil de phacochère"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Trèfles à 4 feuilles", "Persil", "Épines de hérisson"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Pattes de pigeon", "Persil", "Platine"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Canabis", "Iode", "Canabis"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Queue de renard", "Iode", "Azote liquide"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Poil de phacochère", "Azote liquide", "Queue de renard"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Corne de chamois", "Plume de chocard", "Sang"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Queue de renard", "Sel de l'Himalaya", "Argent"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Pétrole", "Sang", "Argent"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Persil", "Iode", "Plume de chocard"]
+}, {
+  "name": "Amnésie",
+  "ingredients": ["Jus de citron", "Queue de renard", "Argent"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Piment", "Poil de chat", "Pattes de pigeon"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Alcool", "Platine", "Iode"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Platine", "Or", "Pattes de pigeon"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Émeraude", "Hélium liquide", "Mercure"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Sel de l'Himalaya", "Or", "Safran"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Vinaigre", "Émeraude", "Alcool"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Tête de rat", "Iode", "Alcool"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Corne de chamois", "Persil", "Bave de lama"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Tête de rat", "Vinaigre", "Azote liquide"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Argent", "Alcool", "Défense de sanglier"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Hélium liquide", "Canabis", "Queue de renard"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Épines de hérisson", "Défense de sanglier", "Poil de phacochère"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Noix de coco", "Platine", "Épines de hérisson"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Noix de coco", "Épines de hérisson", "Persil"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Alcool", "Émeraude", "Jus de citron"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Défenses d'éléphant", "Noix de coco", "Azote liquide"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Trèfles à 4 feuilles", "Pattes de pigeon", "Mercure"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Vinaigre", "Trèfles à 4 feuilles", "Épines de hérisson"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Mercure", "Diamant", "Or"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Piment", "Hélium liquide", "Argent"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Piment", "Queue de renard", "Mercure"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Hélium liquide", "Azote liquide", "Piment"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Poil de phacochère", "Or", "Plume de chocard"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Défenses d'éléphant", "Défenses d'éléphant", "Queue de renard"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Piment", "Azote liquide", "Poil de phacochère"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Bave de lama", "Pétrole", "Corne de chamois"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Sel de l'Himalaya", "Sang", "Diamant"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Poil de phacochère", "Edelweiss", "Hélium liquide"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Vinaigre", "Trèfles à 4 feuilles", "Jus de citron"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Corne de chamois", "Iode", "Vinaigre"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Edelweiss", "Bave de lama", "Épines de hérisson"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Pattes de pigeon", "Défense de sanglier", "Épines de hérisson"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Diamant", "Sang", "Diamant"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Pétrole", "Noix de coco", "Plume de chocard"]
+}, {
+  "name": "Amortentia",
+  "ingredients": ["Bave de lama", "Poil de chat", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Queue de renard", "Défense de sanglier", "Alcool"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Poil de phacochère", "Hélium liquide", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Queue de renard", "Vinaigre", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Azote liquide", "Plume de chocard", "Épines de hérisson"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Défense de sanglier", "Argent", "Alcool"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Edelweiss", "Argent", "Poil de yéti"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Safran", "Pattes de pigeon", "Safran"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Cendres", "Alcool", "Noix de coco"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Queue de renard", "Iode", "Vinaigre"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Argent", "Sel de l'Himalaya", "Argent"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Diamant", "Alcool", "Noix de coco"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Défense de sanglier", "Pattes de pigeon", "Mercure"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Azote liquide", "Hélium liquide", "Safran"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Or", "Corne de chamois", "Plume de chocard"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Safran", "Noix de coco", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de phacochère", "Poil de chat"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Émeraude", "Piment", "Platine"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Poil de phacochère", "Queue de renard", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Alcool", "Sel de l'Himalaya", "Canabis"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Tête de rat", "Tête de rat", "Platine"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de yéti", "Canabis"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Piment", "Or", "Pattes de pigeon"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Alcool", "Pétrole", "Épines de hérisson"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Vinaigre", "Tête de rat", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Défense de sanglier", "Azote liquide", "Mercure"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Azote liquide", "Défenses d'éléphant", "Safran"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Alcool", "Défenses d'éléphant", "Pattes de pigeon"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Plume de chocard", "Edelweiss", "Iode"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Safran", "Corne de chamois", "Pétrole"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Plume de chocard", "Défenses d'éléphant", "Émeraude"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Pattes de pigeon", "Trèfles à 4 feuilles", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Queue de renard", "Cendres", "Noix de coco"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Poil de chat", "Platine", "Piment"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Vinaigre", "Safran", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre d'Amour",
+  "ingredients": ["Corne de chamois", "Queue de renard", "Piment"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Azote liquide", "Plume de chocard", "Canabis"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Iode", "Piment", "Persil"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Poil de yéti", "Azote liquide", "Bave de lama"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Défense de sanglier", "Safran", "Alcool"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Persil", "Mercure", "Iode"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Sang", "Corne de chamois", "Pétrole"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Noix de coco", "Poil de yéti", "Mercure"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Canabis", "Pétrole", "Piment"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Queue de renard", "Canabis", "Sel de l'Himalaya"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Argent", "Persil", "Cendres"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Azote liquide", "Hélium liquide", "Pétrole"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Persil", "Cendres", "Diamant"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Trèfles à 4 feuilles", "Trèfles à 4 feuilles", "Sel de l'Himalaya"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Alcool", "Sel de l'Himalaya", "Défense de sanglier"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Alcool", "Vinaigre", "Noix de coco"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Poil de chat", "Pattes de pigeon", "Sang"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Sang", "Mercure", "Sang"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Poil de phacochère", "Noix de coco", "Épines de hérisson"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Tête de rat", "Sang", "Or"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Or", "Alcool", "Sang"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Sel de l'Himalaya", "Safran", "Corne de chamois"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Alcool", "Poil de chat", "Iode"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Tête de rat", "Poil de yéti", "Azote liquide"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Émeraude", "Tête de rat", "Persil"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Or", "Bave de lama", "Safran"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Émeraude", "Poil de chat", "Tête de rat"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Sel de l'Himalaya", "Sel de l'Himalaya", "Canabis"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Émeraude", "Piment", "Émeraude"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Hélium liquide", "Poil de phacochère", "Mercure"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Argent", "Poil de chat", "Corne de chamois"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Poil de phacochère", "Tête de rat", "Edelweiss"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Edelweiss", "Pattes de pigeon", "Poil de chat"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Queue de renard", "Défenses d'éléphant", "Poil de chat"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Jus de citron", "Diamant", "Persil"]
+}, {
+  "name": "Antidotes",
+  "ingredients": ["Épines de hérisson", "Alcool", "Épines de hérisson"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Pattes de pigeon", "Mercure", "Pattes de pigeon"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Or", "Noix de coco", "Poil de yéti"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Corne de chamois", "Sang", "Sel de l'Himalaya"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Or", "Défense de sanglier", "Émeraude"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Poil de yéti", "Pétrole", "Poil de phacochère"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Piment", "Persil", "Noix de coco"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Noix de coco", "Poil de phacochère", "Pétrole"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Jus de citron", "Hélium liquide", "Sel de l'Himalaya"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Défense de sanglier", "Safran", "Plume de chocard"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Safran", "Poil de yéti", "Persil"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Azote liquide", "Vinaigre", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Tête de rat", "Diamant", "Poil de yéti"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Poil de phacochère", "Queue de renard", "Or"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Or", "Persil", "Azote liquide"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Épines de hérisson", "Mercure", "Noix de coco"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Corne de chamois", "Diamant", "Jus de citron"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Défense de sanglier", "Alcool", "Poil de phacochère"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Queue de renard", "Poil de phacochère", "Diamant"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Noix de coco", "Safran", "Or"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Safran", "Vinaigre", "Cendres"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Noix de coco", "Émeraude", "Platine"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Pattes de pigeon", "Plume de chocard", "Canabis"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Sang", "Plume de chocard", "Argent"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Mercure", "Jus de citron", "Défenses d'éléphant"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Bave de lama", "Pétrole", "Or"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Noix de coco", "Alcool", "Or"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Mercure", "Pétrole", "Mercure"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Mercure", "Plume de chocard", "Cendres"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Mercure", "Poil de yéti", "Tête de rat"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Défense de sanglier", "Safran", "Jus de citron"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Pattes de pigeon", "Pétrole", "Argent"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Pétrole", "Défenses d'éléphant", "Pattes de pigeon"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Or", "Argent", "Queue de renard"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Edelweiss", "Noix de coco", "Azote liquide"]
+}, {
+  "name": "Potion de beauté",
+  "ingredients": ["Hélium liquide", "Mercure", "Cendres"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Argent", "Trèfles à 4 feuilles", "Or"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Cendres", "Platine", "Poil de phacochère"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Tête de rat", "Épines de hérisson", "Alcool"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Canabis", "Trèfles à 4 feuilles", "Poil de phacochère"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Argent", "Sang", "Vinaigre"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Poil de yéti", "Queue de renard", "Cendres"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Persil", "Or", "Canabis"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Émeraude", "Poil de chat", "Émeraude"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Corne de chamois", "Trèfles à 4 feuilles", "Sel de l'Himalaya"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Azote liquide", "Bave de lama", "Sel de l'Himalaya"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Sang", "Or", "Poil de chat"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Cendres", "Tête de rat", "Épines de hérisson"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Safran", "Trèfles à 4 feuilles", "Sang"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Poil de chat", "Canabis", "Queue de renard"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Persil", "Platine", "Argent"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Edelweiss", "Cendres", "Défense de sanglier"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Iode", "Jus de citron", "Noix de coco"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Épines de hérisson", "Jus de citron", "Mercure"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Vinaigre", "Pétrole", "Or"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Pattes de pigeon", "Sang", "Alcool"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Bave de lama", "Argent", "Corne de chamois"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Poil de phacochère", "Hélium liquide", "Persil"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Trèfles à 4 feuilles", "Diamant", "Corne de chamois"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Canabis", "Sel de l'Himalaya", "Défense de sanglier"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Tête de rat", "Épines de hérisson", "Émeraude"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Cendres", "Vinaigre", "Safran"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Poil de phacochère", "Persil", "Safran"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Défense de sanglier", "Mercure", "Cendres"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Poil de yéti", "Or", "Canabis"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Trèfles à 4 feuilles", "Noix de coco", "Corne de chamois"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Platine", "Persil", "Azote liquide"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Plume de chocard", "Hélium liquide", "Iode"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Sel de l'Himalaya", "Persil", "Pétrole"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Queue de renard", "Safran", "Émeraude"]
+}, {
+  "name": "Pâte pour soigner les brûlures",
+  "ingredients": ["Diamant", "Argent", "Safran"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Safran", "Tête de rat", "Corne de chamois"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Azote liquide", "Noix de coco", "Platine"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Plume de chocard", "Persil", "Piment"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Safran", "Mercure", "Bave de lama"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Alcool", "Noix de coco", "Sang"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Safran", "Pattes de pigeon", "Diamant"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Émeraude", "Argent", "Queue de renard"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Edelweiss", "Canabis", "Sang"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Edelweiss", "Plume de chocard", "Poil de phacochère"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Queue de renard", "Jus de citron", "Cendres"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Jus de citron", "Jus de citron", "Noix de coco"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Diamant", "Poil de chat", "Vinaigre"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Cendres", "Plume de chocard", "Or"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Émeraude"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Mercure", "Épines de hérisson", "Canabis"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Sang", "Noix de coco", "Argent"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Alcool", "Poil de phacochère", "Diamant"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Iode", "Défenses d'éléphant", "Vinaigre"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Vinaigre", "Cendres", "Épines de hérisson"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Canabis", "Sang", "Poil de chat"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Cendres", "Or", "Argent"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Émeraude", "Poil de chat", "Alcool"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Edelweiss", "Sang", "Or"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Tête de rat", "Noix de coco", "Or"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Queue de renard"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Persil", "Défense de sanglier", "Azote liquide"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Plume de chocard", "Sel de l'Himalaya", "Piment"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Poil de phacochère", "Émeraude", "Jus de citron"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Cendres", "Jus de citron", "Vinaigre"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Poil de yéti", "Noix de coco", "Mercure"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Diamant", "Pétrole", "Plume de chocard"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Iode", "Mercure", "Azote liquide"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Corne de chamois", "Queue de renard", "Iode"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Azote liquide", "Mercure", "Poil de chat"]
+}, {
+  "name": "Pousse-cheveux",
+  "ingredients": ["Cendres", "Poil de chat", "Platine"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Canabis", "Plume de chocard", "Tête de rat"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Trèfles à 4 feuilles", "Iode", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Défenses d'éléphant", "Pétrole", "Pattes de pigeon"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Pétrole", "Diamant", "Hélium liquide"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Piment", "Iode", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Mercure", "Queue de renard", "Piment"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Défense de sanglier", "Sang", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Piment", "Poil de yéti", "Émeraude"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Pattes de pigeon", "Persil", "Argent"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Corne de chamois", "Poil de chat", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Diamant", "Azote liquide", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Queue de renard", "Pattes de pigeon", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Poil de chat", "Poil de chat", "Noix de coco"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Mercure", "Pétrole", "Iode"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Canabis", "Sang", "Diamant"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Alcool", "Sel de l'Himalaya", "Edelweiss"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Tête de rat", "Plume de chocard", "Diamant"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Défense de sanglier", "Alcool", "Queue de renard"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Persil", "Jus de citron", "Queue de renard"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Poil de yéti", "Sang", "Edelweiss"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Défense de sanglier", "Canabis", "Piment"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Alcool", "Sang", "Plume de chocard"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Azote liquide", "Sang", "Poil de yéti"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Jus de citron", "Tête de rat", "Persil"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Sel de l'Himalaya", "Noix de coco", "Iode"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Argent", "Sang", "Platine"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Vinaigre", "Argent", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Azote liquide", "Azote liquide", "Corne de chamois"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Iode", "Piment", "Or"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Iode", "Mercure", "Edelweiss"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Alcool", "Poil de phacochère", "Queue de renard"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Corne de chamois", "Safran", "Piment"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Défenses d'éléphant", "Queue de renard", "Persil"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Mercure", "Vinaigre", "Émeraude"]
+}, {
+  "name": "Philtre de confusion",
+  "ingredients": ["Bave de lama", "Sang", "Jus de citron"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Épines de hérisson", "Défenses d'éléphant", "Poil de chat"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Queue de renard", "Trèfles à 4 feuilles", "Argent"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Poil de phacochère", "Poil de yéti", "Mercure"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Pétrole", "Noix de coco", "Iode"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Corne de chamois", "Tête de rat", "Sel de l'Himalaya"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Bave de lama", "Émeraude", "Plume de chocard"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Canabis", "Mercure", "Sang"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Pétrole", "Corne de chamois", "Vinaigre"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Platine", "Tête de rat", "Défenses d'éléphant"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Jus de citron", "Vinaigre", "Jus de citron"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Sel de l'Himalaya", "Edelweiss", "Canabis"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Edelweiss", "Pattes de pigeon", "Piment"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Émeraude", "Hélium liquide", "Or"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Corne de chamois", "Diamant", "Jus de citron"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Jus de citron", "Poil de yéti", "Piment"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Cendres", "Poil de chat", "Iode"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Pétrole", "Défenses d'éléphant", "Tête de rat"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Plume de chocard", "Plume de chocard", "Poil de yéti"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Argent", "Noix de coco", "Épines de hérisson"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Sel de l'Himalaya", "Or", "Émeraude"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Sang", "Défense de sanglier", "Argent"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Poil de yéti", "Or", "Tête de rat"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Hélium liquide", "Noix de coco", "Persil"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Safran", "Mercure", "Plume de chocard"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Jus de citron", "Alcool", "Canabis"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Poil de chat", "Corne de chamois", "Queue de renard"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Pétrole", "Défense de sanglier", "Alcool"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Cendres", "Tête de rat", "Défense de sanglier"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Piment", "Trèfles à 4 feuilles", "Azote liquide"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Poil de yéti", "Queue de renard", "Épines de hérisson"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Platine", "Sel de l'Himalaya", "Argent"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Défense de sanglier", "Épines de hérisson", "Piment"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Azote liquide", "Persil", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Trèfles à 4 feuilles", "Cendres", "Pétrole"]
+}, {
+  "name": "Gorgée de Désenflage",
+  "ingredients": ["Cendres", "Queue de renard", "Défenses d'éléphant"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Edelweiss", "Diamant", "Iode"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Bave de lama", "Diamant", "Défenses d'éléphant"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Sang", "Canabis", "Hélium liquide"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Noix de coco", "Épines de hérisson", "Poil de yéti"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Épines de hérisson", "Poil de yéti", "Sel de l'Himalaya"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Piment", "Piment", "Poil de yéti"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Poil de chat", "Noix de coco", "Safran"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Plume de chocard", "Tête de rat", "Jus de citron"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Bave de lama", "Argent", "Pétrole"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Argent", "Noix de coco", "Pattes de pigeon"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Bave de lama", "Azote liquide", "Argent"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Argent", "Tête de rat", "Poil de yéti"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Corne de chamois", "Canabis", "Jus de citron"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Iode", "Corne de chamois", "Tête de rat"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Trèfles à 4 feuilles", "Diamant", "Safran"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Sang", "Corne de chamois", "Défenses d'éléphant"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Piment", "Trèfles à 4 feuilles", "Épines de hérisson"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Mercure", "Cendres", "Bave de lama"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Alcool", "Argent", "Épines de hérisson"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Azote liquide", "Alcool", "Azote liquide"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Vinaigre", "Pétrole", "Tête de rat"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Pattes de pigeon", "Pétrole", "Plume de chocard"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Plume de chocard", "Corne de chamois", "Sang"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Vinaigre", "Pattes de pigeon", "Platine"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Diamant", "Poil de phacochère", "Épines de hérisson"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Émeraude", "Bave de lama", "Vinaigre"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Poil de chat", "Or", "Jus de citron"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Diamant", "Persil", "Vinaigre"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Noix de coco", "Edelweiss", "Vinaigre"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Argent", "Iode", "Hélium liquide"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Azote liquide", "Mercure", "Pattes de pigeon"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Noix de coco", "Pattes de pigeon", "Safran"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Poil de phacochère", "Queue de renard", "Iode"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Edelweiss", "Poil de phacochère", "Bave de lama"]
+}, {
+  "name": "Doxycide",
+  "ingredients": ["Cendres", "Safran", "Or"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Épines de hérisson", "Pétrole", "Corne de chamois"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Épines de hérisson", "Noix de coco", "Mercure"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Iode", "Hélium liquide", "Tête de rat"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Vinaigre", "Pétrole", "Azote liquide"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Pattes de pigeon", "Trèfles à 4 feuilles", "Piment"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Tête de rat", "Alcool", "Vinaigre"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Queue de renard", "Mercure", "Pétrole"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Safran", "Émeraude", "Plume de chocard"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Trèfles à 4 feuilles", "Canabis", "Safran"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Edelweiss", "Mercure", "Piment"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Sang", "Iode", "Poil de phacochère"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Hélium liquide", "Safran", "Argent"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Queue de renard", "Défenses d'éléphant", "Sel de l'Himalaya"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Corne de chamois", "Sang", "Défense de sanglier"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Diamant", "Noix de coco", "Poil de yéti"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Hélium liquide", "Edelweiss", "Bave de lama"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Canabis", "Safran", "Poil de phacochère"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Poil de chat", "Vinaigre", "Corne de chamois"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Platine", "Iode", "Diamant"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Bave de lama", "Platine", "Bave de lama"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Pétrole", "Corne de chamois", "Canabis"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Émeraude", "Sel de l'Himalaya", "Edelweiss"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Sel de l'Himalaya", "Edelweiss", "Noix de coco"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Corne de chamois", "Pattes de pigeon", "Épines de hérisson"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Poil de phacochère", "Azote liquide", "Épines de hérisson"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Jus de citron", "Trèfles à 4 feuilles", "Poil de phacochère"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Sang", "Diamant", "Mercure"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Jus de citron", "Hélium liquide", "Tête de rat"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Piment", "Pétrole", "Azote liquide"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Queue de renard", "Plume de chocard", "Platine"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Mercure", "Sel de l'Himalaya", "Or"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Trèfles à 4 feuilles", "Défenses d'éléphant", "Hélium liquide"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Pétrole", "Noix de coco", "Diamant"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Canabis", "Azote liquide", "Poil de yéti"]
+}, {
+  "name": "Potion d'enflure",
+  "ingredients": ["Alcool", "Argent", "Poil de yéti"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de phacochère", "Noix de coco", "Safran"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Corne de chamois", "Iode", "Pétrole"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Or", "Poil de phacochère", "Diamant"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Pattes de pigeon", "Or", "Platine"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Défense de sanglier", "Persil", "Pattes de pigeon"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Tête de rat", "Poil de yéti", "Tête de rat"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Défense de sanglier", "Pétrole", "Bave de lama"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Noix de coco", "Bave de lama", "Plume de chocard"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Platine", "Canabis", "Queue de renard"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de chat", "Sel de l'Himalaya", "Iode"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Plume de chocard", "Pétrole", "Vinaigre"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Diamant", "Iode", "Défense de sanglier"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Plume de chocard", "Bave de lama", "Alcool"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Défense de sanglier", "Vinaigre", "Épines de hérisson"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Hélium liquide", "Noix de coco", "Poil de phacochère"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Corne de chamois", "Queue de renard", "Épines de hérisson"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Platine", "Canabis", "Diamant"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Vinaigre", "Vinaigre", "Corne de chamois"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Platine", "Poil de phacochère", "Pattes de pigeon"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de chat", "Poil de yéti", "Jus de citron"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de chat", "Plume de chocard", "Safran"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Sang", "Plume de chocard", "Iode"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Vinaigre", "Défense de sanglier", "Défenses d'éléphant"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Edelweiss", "Défense de sanglier", "Argent"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de phacochère", "Hélium liquide", "Edelweiss"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Cendres", "Persil", "Platine"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Azote liquide", "Trèfles à 4 feuilles", "Émeraude"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Poil de chat", "Sang", "Piment"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Or", "Émeraude", "Vinaigre"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Jus de citron", "Safran", "Queue de renard"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Platine", "Edelweiss", "Piment"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Émeraude", "Mercure", "Queue de renard"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Safran", "Sel de l'Himalaya", "Platine"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Vinaigre", "Argent", "Poil de yéti"]
+}, {
+  "name": "Élixir d'éternité",
+  "ingredients": ["Platine", "Poil de chat", "Jus de citron"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Queue de renard", "Bave de lama", "Alcool"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Vinaigre", "Or", "Jus de citron"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Diamant", "Corne de chamois", "Jus de citron"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Platine", "Plume de chocard", "Sel de l'Himalaya"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Sel de l'Himalaya", "Hélium liquide", "Poil de chat"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Diamant", "Sang", "Corne de chamois"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Trèfles à 4 feuilles", "Pétrole", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Edelweiss", "Sel de l'Himalaya", "Défense de sanglier"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de phacochère", "Vinaigre"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Défenses d'éléphant", "Émeraude", "Vinaigre"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Vinaigre", "Épines de hérisson", "Corne de chamois"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Mercure", "Émeraude", "Iode"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Jus de citron", "Argent", "Canabis"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Persil", "Or", "Cendres"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Pattes de pigeon", "Queue de renard", "Plume de chocard"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Défenses d'éléphant", "Sel de l'Himalaya", "Jus de citron"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Alcool", "Safran", "Piment"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Azote liquide", "Poil de phacochère", "Tête de rat"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Persil", "Platine", "Or"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Pattes de pigeon", "Diamant", "Bave de lama"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Jus de citron", "Mercure", "Alcool"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Or", "Pattes de pigeon", "Défenses d'éléphant"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Bave de lama", "Corne de chamois", "Alcool"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Plume de chocard", "Or", "Safran"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Sang", "Argent", "Edelweiss"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Persil", "Argent", "Mercure"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Queue de renard", "Safran", "Corne de chamois"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Safran", "Défense de sanglier", "Safran"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Poil de yéti", "Corne de chamois", "Persil"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Vinaigre", "Épines de hérisson", "Alcool"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Mercure", "Tête de rat", "Plume de chocard"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Vinaigre", "Poil de chat", "Cendres"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Corne de chamois", "Bave de lama", "Poil de chat"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Noix de coco", "Corne de chamois", "Hélium liquide"]
+}, {
+  "name": "Felix Felicis",
+  "ingredients": ["Défense de sanglier", "Canabis", "Pattes de pigeon"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Pétrole", "Azote liquide", "Émeraude"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Piment", "Épines de hérisson", "Canabis"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Iode", "Pétrole", "Iode"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Pétrole", "Or", "Hélium liquide"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Sang", "Défense de sanglier", "Épines de hérisson"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Corne de chamois", "Sel de l'Himalaya", "Jus de citron"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Azote liquide", "Bave de lama", "Noix de coco"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Cendres", "Or", "Tête de rat"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Plume de chocard", "Émeraude", "Azote liquide"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Iode", "Azote liquide", "Corne de chamois"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de chat", "Épines de hérisson"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Argent", "Défense de sanglier", "Tête de rat"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Iode", "Canabis", "Épines de hérisson"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Hélium liquide", "Safran", "Émeraude"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Défense de sanglier", "Sang", "Platine"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Défense de sanglier", "Sel de l'Himalaya", "Or"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Poil de chat", "Platine", "Émeraude"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Safran", "Mercure", "Canabis"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Sel de l'Himalaya", "Poil de phacochère", "Or"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Iode", "Défense de sanglier", "Vinaigre"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Sel de l'Himalaya", "Iode", "Épines de hérisson"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Poil de yéti", "Plume de chocard", "Azote liquide"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Poil de yéti", "Défenses d'éléphant", "Jus de citron"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Plume de chocard", "Plume de chocard", "Persil"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Bave de lama", "Trèfles à 4 feuilles", "Noix de coco"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Jus de citron", "Alcool", "Vinaigre"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Pétrole", "Pétrole", "Pattes de pigeon"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Jus de citron", "Sel de l'Himalaya", "Queue de renard"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Sel de l'Himalaya", "Diamant", "Pétrole"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Poil de chat", "Poil de chat", "Défense de sanglier"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Défenses d'éléphant", "Hélium liquide", "Piment"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Défenses d'éléphant", "Safran", "Alcool"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Tête de rat", "Émeraude", "Poil de yéti"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Canabis", "Corne de chamois", "Défense de sanglier"]
+}, {
+  "name": "Fluide explosif",
+  "ingredients": ["Épines de hérisson", "Or", "Canabis"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Vinaigre", "Or", "Jus de citron"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Trèfles à 4 feuilles", "Iode", "Vinaigre"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Corne de chamois", "Bave de lama", "Plume de chocard"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Jus de citron", "Argent", "Pétrole"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de chat", "Sel de l'Himalaya", "Jus de citron"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Piment", "Argent", "Émeraude"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Corne de chamois", "Diamant", "Tête de rat"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Sel de l'Himalaya", "Iode", "Queue de renard"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de chat", "Argent", "Épines de hérisson"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de yéti", "Iode", "Défenses d'éléphant"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de yéti", "Défenses d'éléphant", "Safran"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Argent", "Queue de renard", "Pétrole"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de yéti", "Safran", "Alcool"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Iode", "Défenses d'éléphant", "Platine"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Corne de chamois", "Alcool", "Sang"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Vinaigre", "Poil de phacochère", "Vinaigre"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Persil", "Mercure", "Noix de coco"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Or", "Sang", "Iode"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Corne de chamois", "Or", "Poil de yéti"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Persil", "Pétrole", "Alcool"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Trèfles à 4 feuilles", "Safran", "Diamant"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Piment", "Pattes de pigeon", "Or"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Diamant", "Persil", "Sel de l'Himalaya"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Sang", "Pattes de pigeon", "Défense de sanglier"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Azote liquide", "Trèfles à 4 feuilles", "Poil de phacochère"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Queue de renard", "Épines de hérisson", "Plume de chocard"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de phacochère", "Vinaigre", "Poil de yéti"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Défense de sanglier", "Queue de renard", "Azote liquide"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Pétrole", "Poil de chat", "Sang"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Canabis", "Cendres", "Persil"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Poil de phacochère", "Trèfles à 4 feuilles", "Poil de yéti"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Tête de rat", "Plume de chocard", "Vinaigre"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Alcool", "Canabis", "Noix de coco"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Sang", "Platine", "Épines de hérisson"]
+}, {
+  "name": "Solution de force",
+  "ingredients": ["Safran", "Diamant", "Mercure"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Piment", "Piment", "Bave de lama"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Poil de chat", "Canabis", "Or"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Jus de citron", "Diamant", "Poil de yéti"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Jus de citron", "Tête de rat", "Poil de yéti"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Sel de l'Himalaya", "Vinaigre", "Défense de sanglier"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Mercure", "Safran", "Cendres"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Queue de renard", "Azote liquide", "Vinaigre"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Canabis", "Jus de citron", "Poil de chat"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Poil de phacochère", "Sel de l'Himalaya", "Bave de lama"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Or", "Noix de coco", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Canabis", "Défense de sanglier", "Bave de lama"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Sel de l'Himalaya", "Mercure", "Diamant"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Poil de phacochère", "Alcool", "Iode"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Azote liquide", "Poil de phacochère", "Pattes de pigeon"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Bave de lama", "Mercure", "Iode"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Edelweiss", "Tête de rat", "Diamant"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Bave de lama", "Iode", "Cendres"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Épines de hérisson", "Plume de chocard", "Edelweiss"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Or", "Bave de lama", "Épines de hérisson"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Corne de chamois", "Cendres", "Vinaigre"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Poil de yéti", "Défense de sanglier", "Sang"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Alcool", "Platine", "Défenses d'éléphant"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Alcool", "Alcool", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Canabis", "Pétrole", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Poil de chat", "Pétrole", "Poil de yéti"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Jus de citron", "Corne de chamois", "Noix de coco"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Alcool", "Edelweiss", "Vinaigre"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Émeraude", "Platine", "Safran"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Persil", "Défenses d'éléphant", "Diamant"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Défense de sanglier", "Queue de renard", "Canabis"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Argent", "Bave de lama", "Iode"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Vinaigre", "Pétrole", "Azote liquide"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Piment", "Azote liquide", "Poil de phacochère"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Azote liquide", "Iode", "Edelweiss"]
+}, {
+  "name": "Soigner les furoncles",
+  "ingredients": ["Or", "Défenses d'éléphant", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Émeraude", "Canabis", "Alcool"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Diamant", "Safran", "Noix de coco"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Cendres", "Argent", "Corne de chamois"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Canabis"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Argent", "Hélium liquide", "Épines de hérisson"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Platine", "Épines de hérisson", "Argent"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Argent", "Corne de chamois", "Jus de citron"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Iode", "Hélium liquide", "Bave de lama"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Trèfles à 4 feuilles", "Mercure", "Piment"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Défenses d'éléphant", "Sel de l'Himalaya", "Défenses d'éléphant"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Argent", "Défense de sanglier", "Poil de chat"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Pétrole", "Queue de renard", "Poil de yéti"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Poil de chat", "Persil", "Cendres"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Alcool", "Bave de lama", "Défenses d'éléphant"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Persil", "Or", "Platine"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sang", "Piment", "Sang"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sel de l'Himalaya", "Queue de renard", "Poil de chat"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Cendres", "Poil de phacochère", "Iode"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Mercure", "Pattes de pigeon", "Safran"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sel de l'Himalaya", "Argent", "Mercure"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Épines de hérisson", "Jus de citron", "Poil de yéti"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Poil de chat", "Bave de lama", "Poil de chat"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Persil", "Poil de phacochère", "Poil de yéti"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Canabis", "Edelweiss", "Pétrole"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Émeraude", "Pattes de pigeon", "Piment"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Queue de renard", "Sel de l'Himalaya", "Platine"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sang", "Canabis", "Épines de hérisson"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Épines de hérisson", "Défenses d'éléphant", "Or"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sang", "Trèfles à 4 feuilles", "Platine"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Trèfles à 4 feuilles", "Mercure", "Sel de l'Himalaya"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Sang", "Cendres", "Platine"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Or", "Poil de phacochère", "Pétrole"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Iode", "Poil de phacochère", "Poil de chat"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Poil de phacochère", "Safran", "Poil de chat"]
+}, {
+  "name": "Potion capillaire",
+  "ingredients": ["Trèfles à 4 feuilles", "Jus de citron", "Noix de coco"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Bave de lama", "Défenses d'éléphant", "Poil de yéti"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Trèfles à 4 feuilles", "Tête de rat", "Émeraude"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Trèfles à 4 feuilles", "Hélium liquide", "Plume de chocard"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Cendres", "Poil de yéti", "Piment"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Mercure", "Trèfles à 4 feuilles", "Pattes de pigeon"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Plume de chocard", "Cendres", "Pétrole"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Mercure", "Défense de sanglier", "Persil"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Épines de hérisson", "Jus de citron", "Edelweiss"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Défense de sanglier", "Hélium liquide", "Bave de lama"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Noix de coco", "Plume de chocard", "Hélium liquide"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Pétrole", "Mercure", "Persil"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Poil de yéti", "Trèfles à 4 feuilles", "Jus de citron"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Cendres", "Poil de chat", "Défenses d'éléphant"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Safran", "Jus de citron", "Corne de chamois"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Edelweiss", "Pattes de pigeon", "Noix de coco"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Mercure", "Défenses d'éléphant", "Poil de phacochère"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Poil de chat", "Cendres", "Platine"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Corne de chamois", "Hélium liquide", "Poil de chat"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Défense de sanglier", "Cendres", "Défenses d'éléphant"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Sel de l'Himalaya", "Épines de hérisson", "Bave de lama"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Tête de rat", "Safran", "Plume de chocard"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Platine", "Argent", "Or"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Bave de lama", "Défenses d'éléphant", "Noix de coco"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Tête de rat", "Mercure", "Poil de chat"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Poil de yéti", "Or", "Diamant"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Émeraude", "Épines de hérisson", "Mercure"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Mercure", "Tête de rat", "Queue de renard"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Edelweiss", "Or", "Bave de lama"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Vinaigre", "Défenses d'éléphant", "Plume de chocard"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Iode", "Iode", "Persil"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Noix de coco", "Edelweiss", "Corne de chamois"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Vinaigre", "Sang", "Sel de l'Himalaya"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Épines de hérisson", "Cendres", "Pattes de pigeon"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Défenses d'éléphant", "Platine", "Persil"]
+}, {
+  "name": "Élixir de Longue Vie",
+  "ingredients": ["Alcool", "Azote liquide", "Or"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Plume de chocard", "Vinaigre", "Défenses d'éléphant"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Trèfles à 4 feuilles", "Corne de chamois", "Noix de coco"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Poil de phacochère", "Iode", "Sel de l'Himalaya"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Tête de rat", "Poil de yéti", "Poil de phacochère"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Jus de citron", "Défense de sanglier", "Piment"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Plume de chocard", "Noix de coco", "Corne de chamois"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Épines de hérisson", "Poil de chat", "Jus de citron"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Alcool", "Piment", "Hélium liquide"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Poil de phacochère", "Épines de hérisson", "Azote liquide"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Vinaigre", "Défenses d'éléphant", "Sang"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Émeraude", "Sang", "Cendres"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Poil de yéti", "Persil", "Plume de chocard"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Poil de phacochère", "Canabis", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Iode", "Défense de sanglier", "Piment"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Épines de hérisson", "Argent", "Pétrole"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Iode", "Poil de yéti", "Edelweiss"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Tête de rat", "Hélium liquide", "Jus de citron"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Jus de citron", "Bave de lama", "Défenses d'éléphant"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Pattes de pigeon", "Piment", "Platine"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Vinaigre", "Argent", "Pattes de pigeon"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Jus de citron", "Pétrole", "Vinaigre"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Or", "Bave de lama", "Sang"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Diamant", "Sang", "Noix de coco"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Poil de phacochère", "Canabis", "Iode"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Pétrole", "Queue de renard", "Tête de rat"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Platine", "Bave de lama", "Corne de chamois"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Piment", "Plume de chocard", "Pétrole"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Edelweiss", "Alcool", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Émeraude", "Canabis", "Sel de l'Himalaya"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Sang", "Corne de chamois", "Mercure"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Tête de rat", "Canabis", "Sel de l'Himalaya"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Argent", "Épines de hérisson", "Sang"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Queue de renard", "Pétrole", "Cendres"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Bave de lama", "Platine", "Azote liquide"]
+}, {
+  "name": "Regénérateur de Mandragove",
+  "ingredients": ["Safran", "Jus de citron", "Or"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Queue de renard", "Hélium liquide", "Défenses d'éléphant"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Poil de yéti", "Noix de coco", "Queue de renard"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Sel de l'Himalaya", "Argent", "Bave de lama"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Queue de renard", "Iode", "Sel de l'Himalaya"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Pattes de pigeon", "Edelweiss", "Plume de chocard"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Sel de l'Himalaya", "Safran", "Bave de lama"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Plume de chocard", "Tête de rat", "Azote liquide"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Cendres", "Poil de yéti", "Platine"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Vinaigre", "Pattes de pigeon", "Défenses d'éléphant"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Alcool", "Tête de rat", "Platine"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Mercure", "Noix de coco", "Or"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Épines de hérisson", "Canabis", "Diamant"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Corne de chamois", "Trèfles à 4 feuilles", "Noix de coco"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Platine", "Émeraude", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Pétrole", "Argent", "Cendres"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Canabis", "Diamant", "Queue de renard"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Or", "Épines de hérisson", "Mercure"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Hélium liquide", "Jus de citron", "Cendres"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Edelweiss", "Edelweiss", "Piment"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Noix de coco", "Sel de l'Himalaya", "Iode"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Iode", "Sel de l'Himalaya", "Cendres"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Safran", "Sel de l'Himalaya", "Mercure"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Poil de yéti", "Queue de renard", "Hélium liquide"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Pétrole", "Poil de chat", "Sang"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Platine", "Poil de chat", "Poil de yéti"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Corne de chamois", "Épines de hérisson", "Persil"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Pétrole", "Sel de l'Himalaya", "Mercure"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Sang", "Pattes de pigeon", "Poil de yéti"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Pattes de pigeon", "Alcool", "Hélium liquide"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Poil de chat", "Azote liquide", "Poil de phacochère"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Émeraude", "Pattes de pigeon", "Poil de phacochère"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Mercure", "Défense de sanglier", "Persil"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Plume de chocard", "Poil de yéti", "Poil de phacochère"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Platine", "Safran", "Noix de coco"]
+}, {
+  "name": "Potions de mémoire",
+  "ingredients": ["Corne de chamois", "Hélium liquide", "Cendres"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Sang", "Safran", "Jus de citron"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Edelweiss", "Azote liquide", "Canabis"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Plume de chocard", "Pétrole", "Poil de yéti"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Azote liquide", "Trèfles à 4 feuilles", "Corne de chamois"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Cendres", "Poil de phacochère", "Argent"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Queue de renard", "Défenses d'éléphant", "Pétrole"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Défenses d'éléphant", "Vinaigre", "Émeraude"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Émeraude", "Sang", "Piment"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Tête de rat", "Poil de yéti", "Or"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Sel de l'Himalaya", "Canabis", "Pétrole"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Or", "Iode", "Argent"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Cendres", "Diamant", "Or"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Iode", "Plume de chocard", "Pattes de pigeon"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Émeraude", "Piment", "Persil"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Argent", "Pattes de pigeon", "Jus de citron"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Piment", "Safran", "Bave de lama"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Noix de coco", "Piment", "Persil"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Jus de citron", "Mercure", "Safran"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Queue de renard", "Persil", "Tête de rat"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Plume de chocard", "Mercure", "Poil de yéti"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Sel de l'Himalaya", "Émeraude", "Cendres"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Argent", "Jus de citron", "Bave de lama"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Platine", "Cendres", "Noix de coco"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Émeraude", "Vinaigre", "Plume de chocard"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Mercure", "Noix de coco", "Poil de chat"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Canabis", "Alcool", "Persil"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Défense de sanglier", "Poil de chat", "Émeraude"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Mercure", "Poil de phacochère", "Alcool"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Jus de citron", "Sang", "Edelweiss"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Épines de hérisson", "Argent", "Corne de chamois"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Persil", "Plume de chocard", "Sel de l'Himalaya"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Pattes de pigeon", "Hélium liquide", "Jus de citron"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Défense de sanglier", "Poil de phacochère", "Sang"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Or", "Platine", "Vinaigre"]
+}, {
+  "name": "Goutte du Mort-Vivant",
+  "ingredients": ["Queue de renard", "Edelweiss", "Tête de rat"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Vinaigre", "Noix de coco", "Défenses d'éléphant"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Persil", "Poil de yéti", "Alcool"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Edelweiss", "Sang", "Argent"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Émeraude", "Corne de chamois", "Pattes de pigeon"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Alcool", "Noix de coco", "Défense de sanglier"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Edelweiss", "Alcool", "Or"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Queue de renard", "Tête de rat", "Iode"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Épines de hérisson", "Piment", "Noix de coco"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Persil", "Jus de citron", "Tête de rat"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Canabis", "Edelweiss", "Mercure"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Émeraude", "Platine", "Émeraude"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Canabis", "Mercure", "Safran"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Poil de phacochère", "Alcool", "Piment"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Queue de renard", "Sel de l'Himalaya", "Sang"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Jus de citron", "Edelweiss", "Poil de chat"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Iode", "Poil de yéti", "Corne de chamois"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Piment", "Diamant", "Hélium liquide"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Pattes de pigeon", "Mercure", "Queue de renard"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Piment", "Argent", "Poil de yéti"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Épines de hérisson", "Mercure", "Iode"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Cendres", "Argent", "Iode"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Cendres", "Platine", "Canabis"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Sang", "Queue de renard", "Platine"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Cendres", "Pattes de pigeon", "Or"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Pétrole", "Azote liquide", "Alcool"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Alcool", "Diamant", "Tête de rat"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Bave de lama", "Mercure", "Safran"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Sang", "Vinaigre", "Or"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Argent", "Sel de l'Himalaya", "Hélium liquide"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Corne de chamois", "Argent", "Safran"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Azote liquide", "Défenses d'éléphant", "Pattes de pigeon"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Vinaigre", "Plume de chocard", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Diamant", "Épines de hérisson", "Canabis"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Or", "Poil de chat", "Noix de coco"]
+}, {
+  "name": "Nettoie-Tout magique de la mère Grattesec",
+  "ingredients": ["Défenses d'éléphant", "Iode", "Or"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Hélium liquide", "Vinaigre", "Corne de chamois"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Défenses d'éléphant", "Noix de coco", "Safran"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Noix de coco", "Alcool", "Bave de lama"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Alcool", "Sang", "Poil de chat"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Alcool", "Argent", "Tête de rat"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Safran", "Persil", "Alcool"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Plume de chocard", "Plume de chocard", "Jus de citron"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Mercure", "Poil de chat", "Edelweiss"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Plume de chocard", "Diamant", "Sel de l'Himalaya"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Pattes de pigeon", "Défense de sanglier", "Queue de renard"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Or", "Piment", "Diamant"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Alcool", "Sang", "Vinaigre"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Sel de l'Himalaya", "Queue de renard", "Noix de coco"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Pétrole", "Bave de lama", "Tête de rat"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Bave de lama", "Mercure", "Jus de citron"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Poil de chat", "Plume de chocard", "Queue de renard"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Persil", "Safran", "Tête de rat"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Épines de hérisson", "Or", "Safran"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Mercure", "Poil de chat", "Azote liquide"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Safran", "Émeraude", "Plume de chocard"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Or", "Poil de phacochère", "Argent"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Or", "Corne de chamois", "Safran"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Argent", "Piment", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Mercure", "Trèfles à 4 feuilles", "Poil de phacochère"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Or", "Pattes de pigeon", "Persil"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Poil de chat", "Sel de l'Himalaya", "Azote liquide"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Mercure", "Pattes de pigeon", "Or"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Hélium liquide", "Edelweiss", "Safran"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Émeraude", "Tête de rat", "Hélium liquide"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Piment", "Trèfles à 4 feuilles", "Émeraude"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Platine", "Corne de chamois", "Edelweiss"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Tête de rat", "Cendres", "Edelweiss"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Noix de coco", "Pattes de pigeon", "Safran"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Edelweiss", "Queue de renard", "Edelweiss"]
+}, {
+  "name": "Nettoyer les blessures",
+  "ingredients": ["Hélium liquide", "Persil", "Or"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Noix de coco", "Défenses d'éléphant", "Sang"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Canabis", "Edelweiss", "Alcool"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Jus de citron", "Pattes de pigeon", "Poil de chat"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Cendres", "Poil de chat", "Pattes de pigeon"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Queue de renard", "Alcool", "Défense de sanglier"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Queue de renard", "Persil", "Vinaigre"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Défenses d'éléphant", "Corne de chamois", "Platine"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Azote liquide", "Tête de rat", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Sel de l'Himalaya", "Sang", "Pétrole"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Diamant", "Argent", "Pattes de pigeon"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Diamant", "Émeraude", "Poil de phacochère"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Plume de chocard", "Défense de sanglier", "Canabis"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Cendres", "Persil", "Tête de rat"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Poil de phacochère", "Iode", "Canabis"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Cendres", "Pattes de pigeon", "Persil"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Iode", "Edelweiss", "Plume de chocard"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Cendres", "Vinaigre", "Jus de citron"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Queue de renard", "Trèfles à 4 feuilles", "Queue de renard"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Diamant", "Mercure", "Piment"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Épines de hérisson", "Canabis", "Or"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Corne de chamois", "Pattes de pigeon", "Canabis"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Émeraude", "Poil de phacochère", "Piment"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Sang", "Hélium liquide", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Alcool", "Queue de renard", "Poil de chat"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Sel de l'Himalaya", "Jus de citron", "Poil de phacochère"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Pétrole", "Queue de renard", "Persil"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Sang", "Hélium liquide", "Or"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Argent", "Sang", "Défenses d'éléphant"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Trèfles à 4 feuilles", "Alcool", "Argent"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Corne de chamois", "Jus de citron", "Bave de lama"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Safran", "Poil de chat", "Canabis"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Émeraude", "Canabis", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Persil", "Argent", "Sel de l'Himalaya"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Persil", "Tête de rat", "Corne de chamois"]
+}, {
+  "name": "Poudre d'Obscurité Instantanée",
+  "ingredients": ["Persil", "Noix de coco", "Poil de yéti"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Tête de rat", "Persil", "Bave de lama"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Sel de l'Himalaya", "Jus de citron", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Défense de sanglier", "Jus de citron", "Bave de lama"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Jus de citron", "Pattes de pigeon", "Jus de citron"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Azote liquide", "Persil", "Alcool"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Tête de rat", "Canabis", "Piment"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Sang", "Sel de l'Himalaya", "Queue de renard"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Bave de lama", "Émeraude", "Cendres"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Iode", "Tête de rat", "Défense de sanglier"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Noix de coco", "Mercure", "Tête de rat"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Edelweiss", "Jus de citron", "Or"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Jus de citron", "Poil de phacochère", "Alcool"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Safran", "Canabis", "Iode"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Alcool", "Pétrole", "Vinaigre"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Vinaigre", "Azote liquide", "Hélium liquide"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Sang", "Sang", "Vinaigre"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Épines de hérisson", "Épines de hérisson", "Noix de coco"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Émeraude", "Vinaigre", "Or"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Argent", "Alcool", "Poil de chat"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Noix de coco", "Bave de lama", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Défense de sanglier", "Poil de yéti", "Diamant"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Défenses d'éléphant", "Vinaigre", "Argent"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Platine", "Piment", "Défense de sanglier"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Platine", "Poil de yéti", "Poil de chat"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Émeraude", "Cendres", "Défense de sanglier"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Poil de phacochère", "Or", "Bave de lama"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Cendres", "Vinaigre", "Tête de rat"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Hélium liquide", "Défenses d'éléphant", "Poil de yéti"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Canabis", "Cendres", "Piment"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Iode", "Diamant", "Jus de citron"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Edelweiss", "Tête de rat", "Iode"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Corne de chamois", "Piment", "Défense de sanglier"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Diamant", "Piment", "Poil de phacochère"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Sel de l'Himalaya", "Défense de sanglier", "Poil de yéti"]
+}, {
+  "name": "Philtre de Paix Conjugale",
+  "ingredients": ["Safran", "Azote liquide", "Edelweiss"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Plume de chocard", "Mercure", "Queue de renard"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Mercure", "Queue de renard", "Safran"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Azote liquide", "Bave de lama", "Piment"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Bave de lama", "Poil de yéti", "Persil"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Sel de l'Himalaya", "Trèfles à 4 feuilles", "Émeraude"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Cendres", "Sel de l'Himalaya", "Queue de renard"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Émeraude", "Trèfles à 4 feuilles", "Jus de citron"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Plume de chocard", "Émeraude", "Poil de chat"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Alcool", "Argent", "Poil de yéti"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Platine", "Edelweiss", "Mercure"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Plume de chocard", "Persil", "Poil de yéti"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Épines de hérisson", "Épines de hérisson", "Vinaigre"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Argent", "Corne de chamois", "Épines de hérisson"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Alcool", "Sel de l'Himalaya", "Mercure"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Safran", "Iode", "Épines de hérisson"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Platine", "Mercure", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Plume de chocard", "Défense de sanglier", "Alcool"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Poil de phacochère", "Émeraude", "Or"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Alcool", "Jus de citron", "Épines de hérisson"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Queue de renard", "Corne de chamois", "Bave de lama"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Épines de hérisson", "Argent", "Émeraude"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Queue de renard", "Vinaigre", "Mercure"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Défense de sanglier", "Épines de hérisson", "Edelweiss"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Piment", "Poil de phacochère", "Safran"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Iode", "Pattes de pigeon", "Safran"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Cendres", "Pétrole", "Edelweiss"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Alcool", "Trèfles à 4 feuilles", "Queue de renard"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Azote liquide", "Épines de hérisson", "Cendres"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Or", "Cendres", "Azote liquide"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Tête de rat", "Pétrole", "Bave de lama"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Sel de l'Himalaya", "Défenses d'éléphant", "Persil"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Jus de citron", "Corne de chamois", "Poil de phacochère"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Jus de citron", "Défense de sanglier", "Alcool"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Cendres", "Défense de sanglier", "Épines de hérisson"]
+}, {
+  "name": "Révélateur Photographique",
+  "ingredients": ["Plume de chocard", "Argent", "Corne de chamois"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de chat", "Sang", "Hélium liquide"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Sel de l'Himalaya", "Mercure", "Vinaigre"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Canabis", "Queue de renard", "Or"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Corne de chamois", "Queue de renard", "Piment"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Argent", "Queue de renard", "Pétrole"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Sang", "Vinaigre", "Platine"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Bave de lama", "Bave de lama", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de yéti", "Hélium liquide", "Poil de yéti"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Défense de sanglier", "Poil de chat", "Défenses d'éléphant"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Plume de chocard", "Azote liquide", "Argent"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Tête de rat", "Piment", "Alcool"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Cendres", "Alcool", "Mercure"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Iode", "Défense de sanglier", "Poil de chat"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Trèfles à 4 feuilles", "Persil", "Corne de chamois"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Jus de citron", "Edelweiss", "Hélium liquide"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de chat", "Cendres", "Poil de chat"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Mercure", "Poil de phacochère", "Épines de hérisson"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Noix de coco", "Jus de citron", "Cendres"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Pétrole", "Émeraude", "Queue de renard"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Jus de citron", "Cendres", "Safran"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Mercure", "Jus de citron", "Sang"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Canabis", "Iode", "Persil"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Persil", "Plume de chocard", "Iode"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Trèfles à 4 feuilles", "Poil de chat", "Or"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de chat", "Poil de phacochère", "Piment"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Edelweiss", "Sang", "Corne de chamois"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Safran", "Défenses d'éléphant", "Safran"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Défenses d'éléphant", "Canabis", "Mercure"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de chat", "Queue de renard", "Poil de yéti"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Platine", "Pétrole", "Bave de lama"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Noix de coco", "Plume de chocard", "Poil de phacochère"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Piment", "Défenses d'éléphant", "Queue de renard"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Poil de yéti", "Jus de citron", "Pétrole"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Corne de chamois", "Poil de yéti", "Mercure"]
+}, {
+  "name": "Pimentine",
+  "ingredients": ["Alcool", "Émeraude", "Argent"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Safran", "Vinaigre", "Jus de citron"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Noix de coco", "Sel de l'Himalaya", "Platine"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Pattes de pigeon", "Poil de phacochère", "Poil de chat"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Jus de citron", "Trèfles à 4 feuilles", "Diamant"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Hélium liquide", "Diamant", "Jus de citron"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Persil", "Pétrole", "Platine"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Platine", "Safran", "Poil de yéti"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Azote liquide", "Tête de rat", "Diamant"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Corne de chamois", "Cendres", "Tête de rat"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Platine", "Sel de l'Himalaya", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Corne de chamois", "Pattes de pigeon", "Or"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Hélium liquide", "Bave de lama", "Platine"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Bave de lama", "Piment", "Poil de chat"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Diamant", "Azote liquide", "Piment"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Émeraude", "Poil de yéti", "Jus de citron"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Plume de chocard", "Noix de coco", "Défense de sanglier"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Défenses d'éléphant", "Hélium liquide", "Piment"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Persil", "Corne de chamois", "Argent"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Vinaigre", "Poil de chat", "Platine"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Défense de sanglier", "Edelweiss", "Corne de chamois"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Piment", "Alcool", "Platine"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Poil de chat", "Argent", "Persil"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Défense de sanglier", "Épines de hérisson", "Tête de rat"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Piment", "Corne de chamois", "Argent"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Azote liquide", "Sang", "Cendres"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Hélium liquide", "Poil de phacochère", "Mercure"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Diamant", "Défenses d'éléphant", "Poil de chat"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Jus de citron", "Cendres", "Poil de phacochère"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Mercure", "Or", "Émeraude"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Platine", "Épines de hérisson", "Canabis"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Poil de chat", "Corne de chamois", "Bave de lama"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Bave de lama", "Persil", "Safran"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Platine", "Pétrole", "Diamant"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Poil de chat", "Vinaigre", "Jus de citron"]
+}, {
+  "name": "Polynectar",
+  "ingredients": ["Émeraude", "Poil de phacochère", "Safran"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Or", "Alcool", "Queue de renard"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Hélium liquide", "Queue de renard", "Poil de yéti"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Queue de renard", "Pétrole", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Plume de chocard", "Argent", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Cendres", "Sel de l'Himalaya", "Argent"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Vinaigre", "Jus de citron", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Jus de citron", "Sel de l'Himalaya", "Piment"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Cendres", "Edelweiss", "Noix de coco"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Trèfles à 4 feuilles", "Or", "Pétrole"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Poil de yéti", "Épines de hérisson", "Iode"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Défenses d'éléphant", "Sang", "Défenses d'éléphant"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Alcool", "Safran", "Iode"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Piment", "Piment", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Noix de coco", "Poil de yéti", "Pétrole"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Défenses d'éléphant", "Épines de hérisson", "Poil de yéti"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Edelweiss", "Mercure", "Pétrole"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Bave de lama", "Mercure", "Canabis"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Bave de lama", "Hélium liquide", "Mercure"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Noix de coco", "Poil de chat", "Persil"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Azote liquide", "Tête de rat", "Azote liquide"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Émeraude", "Pattes de pigeon", "Corne de chamois"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Sang", "Tête de rat", "Mercure"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Noix de coco", "Or", "Sel de l'Himalaya"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Trèfles à 4 feuilles", "Canabis", "Poil de phacochère"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Mercure", "Piment", "Pattes de pigeon"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Hélium liquide", "Cendres", "Piment"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Poil de yéti", "Jus de citron", "Persil"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Corne de chamois", "Hélium liquide", "Pattes de pigeon"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Trèfles à 4 feuilles", "Diamant", "Hélium liquide"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Plume de chocard", "Sang", "Jus de citron"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Platine", "Sang", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Défense de sanglier", "Pétrole", "Platine"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Sang", "Épines de hérisson", "Edelweiss"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Défenses d'éléphant", "Edelweiss", "Jus de citron"]
+}, {
+  "name": "Philtre de Poly-Amour",
+  "ingredients": ["Défense de sanglier", "Vinaigre", "Hélium liquide"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Défenses d'éléphant", "Jus de citron", "Poil de chat"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Hélium liquide", "Canabis", "Pattes de pigeon"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Argent", "Piment", "Corne de chamois"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Azote liquide", "Noix de coco", "Sel de l'Himalaya"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Épines de hérisson", "Iode", "Queue de renard"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Safran", "Poil de yéti", "Vinaigre"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Hélium liquide", "Pattes de pigeon", "Épines de hérisson"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Or", "Défenses d'éléphant", "Platine"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Pattes de pigeon", "Argent", "Corne de chamois"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Bave de lama", "Diamant", "Azote liquide"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Noix de coco", "Cendres", "Platine"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Défenses d'éléphant", "Défenses d'éléphant", "Poil de yéti"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Or", "Vinaigre", "Pattes de pigeon"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Épines de hérisson", "Sang", "Défenses d'éléphant"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Sel de l'Himalaya", "Piment", "Argent"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Pattes de pigeon", "Edelweiss", "Alcool"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Défenses d'éléphant", "Trèfles à 4 feuilles", "Pétrole"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Piment", "Canabis", "Piment"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Alcool", "Persil", "Défenses d'éléphant"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Vinaigre", "Diamant", "Edelweiss"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Sang"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Edelweiss", "Persil", "Bave de lama"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Pattes de pigeon", "Piment", "Diamant"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Alcool", "Diamant", "Queue de renard"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Hélium liquide", "Argent", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Mercure", "Épines de hérisson", "Canabis"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Poil de yéti", "Diamant", "Alcool"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Émeraude", "Edelweiss", "Sel de l'Himalaya"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Argent", "Vinaigre", "Hélium liquide"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Poil de yéti", "Azote liquide", "Sel de l'Himalaya"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Défense de sanglier", "Défense de sanglier", "Iode"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Azote liquide", "Pattes de pigeon", "Tête de rat"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Poil de yéti", "Bave de lama", "Persil"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Poil de chat", "Trèfles à 4 feuilles", "Platine"]
+}, {
+  "name": "Quodpot",
+  "ingredients": ["Cendres", "Plume de chocard", "Vinaigre"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Pattes de pigeon", "Plume de chocard", "Azote liquide"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Cendres", "Piment", "Pattes de pigeon"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Défenses d'éléphant", "Mercure", "Bave de lama"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Hélium liquide", "Poil de yéti", "Azote liquide"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Poil de chat", "Plume de chocard", "Épines de hérisson"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Edelweiss", "Mercure", "Jus de citron"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Défenses d'éléphant", "Persil", "Piment"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Piment", "Canabis", "Poil de phacochère"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Épines de hérisson", "Mercure", "Poil de phacochère"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Iode", "Or", "Tête de rat"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Corne de chamois", "Cendres", "Persil"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Piment", "Poil de yéti", "Vinaigre"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Corne de chamois", "Queue de renard", "Persil"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Émeraude", "Diamant", "Platine"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Trèfles à 4 feuilles", "Queue de renard", "Safran"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Épines de hérisson", "Iode", "Safran"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Vinaigre", "Edelweiss", "Poil de chat"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Persil", "Sel de l'Himalaya", "Cendres"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Trèfles à 4 feuilles", "Queue de renard", "Argent"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Iode", "Défenses d'éléphant", "Hélium liquide"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Corne de chamois", "Safran", "Corne de chamois"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Défense de sanglier", "Diamant", "Noix de coco"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Sang", "Or", "Noix de coco"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Poil de phacochère", "Azote liquide", "Piment"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Poil de chat", "Défenses d'éléphant", "Argent"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Azote liquide", "Émeraude", "Or"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Sang", "Edelweiss", "Défense de sanglier"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Pattes de pigeon", "Pétrole", "Vinaigre"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Piment", "Vinaigre", "Queue de renard"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Bave de lama", "Pattes de pigeon", "Sel de l'Himalaya"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Pattes de pigeon", "Poil de chat", "Diamant"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Poil de chat", "Edelweiss", "Diamant"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Canabis", "Queue de renard", "Diamant"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Épines de hérisson", "Bave de lama", "Mercure"]
+}, {
+  "name": "Ratatinage",
+  "ingredients": ["Pattes de pigeon", "Défense de sanglier", "Alcool"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Persil", "Diamant", "Or"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Canabis", "Azote liquide", "Poil de phacochère"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Sel de l'Himalaya", "Or", "Sel de l'Himalaya"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Sang", "Émeraude", "Or"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Émeraude", "Émeraude", "Hélium liquide"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Bave de lama", "Alcool", "Safran"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Noix de coco", "Épines de hérisson", "Mercure"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Diamant", "Diamant", "Poil de phacochère"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Émeraude", "Trèfles à 4 feuilles", "Épines de hérisson"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Poil de chat", "Trèfles à 4 feuilles", "Bave de lama"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Pattes de pigeon", "Noix de coco", "Corne de chamois"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Hélium liquide", "Persil", "Canabis"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Tête de rat", "Défense de sanglier", "Bave de lama"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Or", "Diamant", "Plume de chocard"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Hélium liquide", "Bave de lama", "Persil"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Piment", "Trèfles à 4 feuilles", "Défense de sanglier"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Azote liquide", "Argent", "Alcool"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Sel de l'Himalaya", "Poil de chat", "Jus de citron"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Or", "Bave de lama", "Tête de rat"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Safran", "Épines de hérisson", "Défense de sanglier"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Plume de chocard", "Argent", "Plume de chocard"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Jus de citron", "Bave de lama", "Alcool"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Argent", "Pattes de pigeon", "Épines de hérisson"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Alcool", "Iode", "Défense de sanglier"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Safran", "Noix de coco", "Jus de citron"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Bave de lama", "Cendres", "Piment"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Or", "Or", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Cendres", "Pétrole", "Plume de chocard"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Plume de chocard", "Sel de l'Himalaya", "Mercure"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Hélium liquide", "Iode", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Piment", "Cendres", "Alcool"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Cendres", "Alcool", "Défense de sanglier"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Tête de rat", "Diamant", "Défense de sanglier"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Plume de chocard", "Mercure", "Jus de citron"]
+}, {
+  "name": "Régénération sanguine",
+  "ingredients": ["Bave de lama", "Défenses d'éléphant", "Azote liquide"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Canabis", "Queue de renard", "Pattes de pigeon"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Edelweiss", "Jus de citron", "Pattes de pigeon"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Piment", "Edelweiss", "Noix de coco"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Épines de hérisson", "Alcool", "Diamant"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Queue de renard", "Bave de lama", "Noix de coco"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Canabis", "Trèfles à 4 feuilles", "Poil de chat"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Tête de rat", "Cendres", "Émeraude"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Mercure", "Trèfles à 4 feuilles", "Or"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Or", "Alcool", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Queue de renard", "Sel de l'Himalaya", "Jus de citron"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Poil de chat", "Poil de chat", "Cendres"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Safran", "Plume de chocard", "Jus de citron"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Piment", "Vinaigre", "Défense de sanglier"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Défenses d'éléphant", "Canabis", "Défense de sanglier"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Iode", "Jus de citron", "Bave de lama"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Queue de renard", "Poil de phacochère", "Argent"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Corne de chamois", "Poil de chat", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Épines de hérisson", "Platine", "Vinaigre"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Corne de chamois", "Edelweiss", "Poil de chat"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Défense de sanglier", "Corne de chamois", "Bave de lama"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Émeraude", "Persil", "Plume de chocard"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Poil de yéti", "Jus de citron", "Défenses d'éléphant"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Pattes de pigeon", "Persil", "Bave de lama"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Trèfles à 4 feuilles", "Jus de citron", "Cendres"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Poil de phacochère", "Iode", "Persil"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Argent", "Canabis", "Sel de l'Himalaya"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Poil de chat", "Iode", "Piment"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Queue de renard", "Azote liquide", "Défense de sanglier"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Trèfles à 4 feuilles", "Pétrole", "Émeraude"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Bave de lama", "Épines de hérisson", "Cendres"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Iode", "Sel de l'Himalaya", "Safran"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Pétrole", "Sang", "Sel de l'Himalaya"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Mercure", "Poil de chat", "Hélium liquide"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Poil de yéti", "Pétrole", "Tête de rat"]
+}, {
+  "name": "Somnifère",
+  "ingredients": ["Iode", "Diamant", "Pattes de pigeon"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Poil de chat", "Pattes de pigeon", "Défense de sanglier"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Azote liquide", "Poil de chat", "Iode"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Mercure", "Bave de lama", "Or"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Bave de lama", "Poil de yéti", "Iode"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Émeraude", "Safran", "Épines de hérisson"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Bave de lama", "Persil", "Poil de yéti"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Poil de chat", "Tête de rat", "Noix de coco"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Pattes de pigeon", "Émeraude", "Azote liquide"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Canabis", "Poil de phacochère", "Tête de rat"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Or", "Alcool", "Bave de lama"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Corne de chamois", "Sang", "Plume de chocard"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Émeraude", "Argent", "Azote liquide"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Queue de renard", "Diamant", "Argent"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Émeraude", "Épines de hérisson", "Persil"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Sang", "Platine", "Émeraude"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Platine", "Épines de hérisson", "Pétrole"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Défenses d'éléphant", "Safran", "Iode"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Safran", "Sang", "Safran"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Argent", "Poil de yéti", "Noix de coco"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Bave de lama", "Queue de renard", "Persil"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Canabis", "Mercure", "Bave de lama"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Azote liquide", "Épines de hérisson", "Edelweiss"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Corne de chamois", "Safran", "Défense de sanglier"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Or", "Épines de hérisson", "Bave de lama"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Bave de lama", "Canabis", "Persil"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Poil de chat"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Or", "Défenses d'éléphant", "Jus de citron"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Trèfles à 4 feuilles", "Platine", "Alcool"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Hélium liquide", "Plume de chocard", "Jus de citron"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Edelweiss", "Edelweiss", "Trèfles à 4 feuilles"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Canabis", "Jus de citron", "Émeraude"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Jus de citron", "Safran", "Platine"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Sel de l'Himalaya", "Défense de sanglier", "Iode"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Bave de lama", "Jus de citron", "Alcool"]
+}, {
+  "name": "Tue-Loup",
+  "ingredients": ["Iode", "Edelweiss", "Poil de phacochère"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Sang", "Corne de chamois", "Edelweiss"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Alcool", "Or", "Sang"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Trèfles à 4 feuilles", "Jus de citron", "Platine"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Cendres", "Bave de lama", "Tête de rat"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Poil de phacochère", "Mercure", "Iode"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Jus de citron", "Pattes de pigeon", "Azote liquide"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Sang", "Canabis", "Cendres"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Sel de l'Himalaya", "Corne de chamois", "Queue de renard"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Alcool", "Tête de rat", "Vinaigre"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Vinaigre", "Argent", "Défenses d'éléphant"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Pattes de pigeon", "Bave de lama", "Or"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Pétrole", "Pétrole", "Sel de l'Himalaya"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Émeraude", "Or", "Persil"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Azote liquide", "Bave de lama", "Cendres"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Sel de l'Himalaya", "Mercure", "Plume de chocard"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Iode", "Vinaigre", "Hélium liquide"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Piment", "Jus de citron", "Piment"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Poil de chat", "Persil", "Platine"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Plume de chocard", "Queue de renard", "Edelweiss"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Piment", "Poil de chat", "Edelweiss"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Cendres", "Argent", "Noix de coco"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Hélium liquide", "Corne de chamois", "Émeraude"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Piment", "Edelweiss", "Platine"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Platine", "Or", "Hélium liquide"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Pattes de pigeon", "Edelweiss", "Poil de chat"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Trèfles à 4 feuilles", "Jus de citron", "Émeraude"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Queue de renard", "Jus de citron", "Poil de yéti"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Cendres", "Jus de citron", "Tête de rat"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Vinaigre", "Argent", "Alcool"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Corne de chamois", "Argent", "Tête de rat"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Queue de renard", "Noix de coco", "Hélium liquide"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Alcool", "Épines de hérisson", "Noix de coco"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Alcool", "Edelweiss", "Corne de chamois"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Défenses d'éléphant", "Épines de hérisson", "Argent"]
+}, {
+  "name": "Veritaserum",
+  "ingredients": ["Pétrole", "Noix de coco", "Argent"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Corne de chamois", "Émeraude", "Cendres"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Émeraude", "Tête de rat", "Épines de hérisson"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Mercure", "Alcool", "Tête de rat"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Défenses d'éléphant", "Corne de chamois", "Edelweiss"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Pattes de pigeon", "Cendres", "Défenses d'éléphant"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Trèfles à 4 feuilles", "Tête de rat", "Sang"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Persil", "Défenses d'éléphant", "Alcool"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Or", "Diamant", "Alcool"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Mercure", "Diamant", "Sang"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Poil de yéti", "Jus de citron", "Émeraude"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Défense de sanglier", "Argent", "Alcool"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Poil de chat", "Épines de hérisson", "Tête de rat"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Défenses d'éléphant", "Azote liquide", "Poil de yéti"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Poil de yéti", "Argent", "Sang"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Iode", "Sel de l'Himalaya", "Canabis"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Azote liquide", "Hélium liquide", "Noix de coco"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Jus de citron", "Défense de sanglier", "Défenses d'éléphant"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Sang", "Poil de yéti", "Sang"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Jus de citron", "Défenses d'éléphant", "Pattes de pigeon"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Sang", "Azote liquide", "Poil de yéti"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Persil", "Mercure", "Diamant"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Persil", "Iode", "Pattes de pigeon"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Bave de lama", "Poil de phacochère", "Argent"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Jus de citron", "Noix de coco", "Alcool"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Pattes de pigeon", "Sang", "Émeraude"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Canabis", "Pattes de pigeon", "Edelweiss"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Tête de rat", "Alcool", "Noix de coco"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Sang", "Cendres", "Persil"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Défenses d'éléphant", "Azote liquide", "Alcool"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Plume de chocard", "Pattes de pigeon", "Poil de chat"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Piment", "Alcool", "Sang"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Épines de hérisson", "Pattes de pigeon", "Corne de chamois"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Edelweiss", "Mercure", "Safran"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Pétrole", "Corne de chamois", "Edelweiss"]
+}, {
+  "name": "Verrues en poudre",
+  "ingredients": ["Sang", "Azote liquide", "Poil de yéti"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Plume de chocard", "Canabis", "Pattes de pigeon"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Azote liquide", "Jus de citron", "Pétrole"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Hélium liquide", "Noix de coco", "Tête de rat"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Tête de rat", "Épines de hérisson", "Cendres"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Bave de lama", "Tête de rat", "Or"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Argent", "Or", "Poil de chat"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Défenses d'éléphant", "Alcool", "Cendres"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Cendres", "Corne de chamois", "Défenses d'éléphant"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Cendres", "Défenses d'éléphant", "Persil"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Diamant", "Poil de yéti", "Iode"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Jus de citron", "Safran", "Noix de coco"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Bave de lama", "Bave de lama", "Défenses d'éléphant"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Défenses d'éléphant", "Défense de sanglier", "Épines de hérisson"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Bave de lama", "Défenses d'éléphant", "Persil"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Poil de phacochère", "Trèfles à 4 feuilles", "Cendres"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Trèfles à 4 feuilles", "Edelweiss", "Corne de chamois"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Mercure", "Corne de chamois", "Persil"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Épines de hérisson", "Sang", "Platine"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Tête de rat", "Émeraude", "Poil de yéti"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Corne de chamois", "Tête de rat", "Vinaigre"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Corne de chamois", "Argent", "Queue de renard"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Trèfles à 4 feuilles", "Épines de hérisson", "Iode"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Poil de yéti", "Poil de phacochère", "Émeraude"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Émeraude", "Mercure", "Argent"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Diamant", "Azote liquide", "Diamant"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Canabis", "Pattes de pigeon", "Défenses d'éléphant"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Pétrole", "Edelweiss", "Diamant"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Argent", "Or", "Canabis"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Diamant", "Émeraude", "Hélium liquide"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Safran", "Safran", "Iode"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Jus de citron", "Cendres", "Bave de lama"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Épines de hérisson", "Argent", "Émeraude"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Sel de l'Himalaya", "Trèfles à 4 feuilles", "Plume de chocard"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Or", "Vinaigre", "Platine"]
+}, {
+  "name": "Vieilliessement",
+  "ingredients": ["Alcool", "Hélium liquide", "Corne de chamois"]
+}]

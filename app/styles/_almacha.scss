@@ -1,0 +1,85 @@
+// Generate the medium columns for a row of 5 columns
+@mixin make-md-column-5($columns, $gutter: $grid-gutter-width) {
+  position: relative;
+  min-height: 1px;
+  padding-left:   ($gutter / 2);
+  padding-right:  ($gutter / 2);
+  padding-top:    ($gutter / 2);
+  padding-bottom: ($gutter / 2);
+
+  @media (min-width: $screen-md-min) {
+    float: left;
+    width: percentage(($columns / 5));
+  }
+}
+
+.inventory {
+  @include make-md-column(9);
+  
+  ul {
+    @include make-row();
+    list-style-type: none;
+    
+    li {
+      @include make-md-column-5(1, 6px);
+      
+      button {
+        width: 100%;
+        min-height: 60px;
+      }
+    }
+    
+  }
+  
+  .inventory-item-title {
+    position: relative;
+    text-align: center;
+    top: -10px;
+  }
+  
+  .inventory-item-used {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+  }
+    
+}
+
+.mixer {
+  
+  @include make-md-column(3);
+  
+  .mixer-recipient {
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    min-height: 200px;
+    font-size: 1.5em;
+    line-height: 2em;
+    text-align: center;
+  }
+  
+  .mixer-buttons {
+    @include make-row();
+    margin-bottom: 10px;
+    
+    .mixer-buttons-blend {
+      @include make-md-column(5);
+      @include make-md-column-offset(1);
+    }
+    
+    .mixer-buttons-clean {
+      @include make-md-column(5);
+    }
+    
+    button {
+      width: 100%;
+    }
+  }
+  
+  .mixer-result {
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    min-height: 200px;
+  }
+  
+}

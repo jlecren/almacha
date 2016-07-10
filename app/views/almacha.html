@@ -1,0 +1,43 @@
+<div class="container-fluid">
+  
+  <div class="row">
+    
+    <div class="inventory">
+      <ul>
+        <li ng-repeat="item in listInventoryItems()">
+          <button ng-click="addIngredientToMix( item )" class="btn btn-primary">
+            <span class="inventory-item-title">{{ item.nbStock }} {{ item.name }}</span>
+            <span class="inventory-item-used">({{ item.nbUsed }})</span>
+          </button>
+        </li>
+      </ul>
+    </div>
+    
+    <div class="mixer">
+      
+      <p class="mixer-recipient">
+        <span ng-repeat="ingredient in getIngredientsToMix()" >{{ ingredient }}<br/></span>
+      </p>
+      
+      <div class="mixer-buttons">
+        <div class="mixer-buttons-blend">
+          <button ng-click="createPotion()" class="btn btn-success">M&eacute;langer</button>
+        </div>
+        <div class="mixer-buttons-clean">
+          <button ng-click="cleanUp()" class="btn btn-danger">Nettoyer</button>
+        </div>
+      </div>
+      
+      <div class="mixer-result">
+        <p ng-if="!!potion.name" class="alert alert-success" >
+          Vous avez créé la potion<br/>"<b>{{ potion.name }}</b>".
+        </p>
+        
+        <p ng-if="!!error.message" class="alert alert-warning" >{{ error.message }}</p>
+      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
