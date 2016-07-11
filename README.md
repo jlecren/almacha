@@ -1,7 +1,9 @@
-# almacha
+# Almacha : The Alchemy Machine
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+This project aims to demonstrate the usage of some front-end technologies:
+* Angular 1
+* Bootstrap
+* Sass + Compass
 
 ## Build & development
 
@@ -10,3 +12,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## Project contruction
+
+The project has been initialized with the Angular generator of Yeoman.
