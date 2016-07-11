@@ -18,6 +18,12 @@ module.exports = function (grunt) {
     ngtemplates: 'grunt-angular-templates',
     cdnify: 'grunt-google-cdn'
   });
+  
+  // Load aws config files
+  var fs = require('fs')
+    , ini = require('ini');
+
+  var aws_config = ini.parse(fs.readFileSync(process.env.HOME + '/.aws/credentials', 'utf-8'));
 
   // Configurable paths for the application
   var appConfig = {
@@ -430,7 +436,8 @@ module.exports = function (grunt) {
             '*.{ico,png,txt}',
             '*.html',
             'images/{,*/}*.{webp}',
-            'styles/fonts/{,*/}*.*'
+            'styles/fonts/{,*/}*.*',
+            'data/*.json'
           ]
         }, {
           expand: true,
@@ -472,6 +479,24 @@ module.exports = function (grunt) {
       unit: {
         configFile: 'test/karma.conf.js',
         singleRun: true
+      }
+    },
+    
+    's3-sync': {
+      options: {
+          key: aws_config["admin-deskiss"].aws_access_key_id,
+          secret: aws_config["admin-deskiss"].aws_secret_access_key,
+          bucket: 'almacha.joranlecren.me'
+      },
+      website: {
+          files: [
+              {
+                  root: __dirname
+                , src:  'dist'
+                , dest: '.'
+                , gzip: true
+              }
+          ]
       }
     }
   });
