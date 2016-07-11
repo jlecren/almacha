@@ -32,6 +32,11 @@ angular.module('almachaApp')
         this.cleanUp();
       }
       
+      if( item.nbStock === 0 ) {
+        console.log("No more '" + item.name + "' in stock.");
+        return;
+      }
+      
       Mixer.addIngredient( item.name );
       
     };
@@ -48,11 +53,7 @@ angular.module('almachaApp')
       
       var recipe = Recipe.fetchRecipe( Mixer.getIngredients() );
       
-      if(recipe === null ) {
-        console.log('There is no recipe for those ingredients.');
-        this.error.message = 'Il n\'existe pas de recette pour ces ingrédients.';
-        return;
-      }
+      console.log('Recipe : ' + JSON.stringify(recipe));
       
       try {
         Inventory.decreaseStock( Mixer.getIngredients() );
@@ -64,9 +65,18 @@ angular.module('almachaApp')
         }
       }
       
-      this.potion = {
-        name: recipe.name
-      };
+      if( !!recipe ) {
+        
+        this.potion = {
+          name: recipe.name
+        };
+        
+      } else {
+        
+        console.log('There is no recipe for those ingredients.');
+        this.error.message = 'Il n\'existe pas de recette pour ces ingrédients.';
+        
+      }
       
       Mixer.cleanUp();
       
