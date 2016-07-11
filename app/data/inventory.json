@@ -1,176 +1,211 @@
 [
   {
     "name": "Piment",
+    "image": "piment",
     "nbStock": 4,
     "nbUsed": 3
   },
   {
     "name": "Poil de chat",
+    "image": "poil_chat",
     "nbStock": 7,
     "nbUsed": 3
   },
   {
     "name": "Vinaigre",
+    "image": "vinaigre",
     "nbStock": 12,
     "nbUsed": 2
   },
   {
     "name": "Tête de rat",
+    "image": "tete_rat",
     "nbStock": 16,
     "nbUsed": 2
   },
   {
     "name": "Défense de sanglier",
+    "image": "defenses_sanglier",
     "nbStock": 13,
     "nbUsed": 3
   },
   {
     "name": "Bave de lama",
+    "image": "bave_lama",
     "nbStock": 10,
     "nbUsed": 2
   },
   {
     "name": "Azote liquide",
+    "image": "azote-liquide",
     "nbStock": 6,
     "nbUsed": 3
   },
   {
     "name": "Noix de coco",
+    "image": "noix_de_coco",
     "nbStock": 6,
     "nbUsed": 3
   },
   {
     "name": "Jus de citron",
+    "image": "jus_citron",
     "nbStock": 1,
     "nbUsed": 3
   },
   {
     "name": "Persil",
+    "image": "persil",
     "nbStock": 20,
     "nbUsed": 2
   },
   {
     "name": "Alcool",
+    "image": "alcool",
     "nbStock": 18,
     "nbUsed": 3
   },
   {
     "name": "Iode",
+    "image": "iode",
     "nbStock": 3,
     "nbUsed": 3
   },
   {
     "name": "Épines de hérisson",
+    "image": "herisson",
     "nbStock": 13,
     "nbUsed": 4
   },
   {
     "name": "Pétrole",
+    "image": "petrole",
     "nbStock": 1,
     "nbUsed": 3
   },
   {
     "name": "Argent",
+    "image": "argent",
     "nbStock": 19,
     "nbUsed": 2
   },
   {
     "name": "Platine",
+    "image": "platine",
     "nbStock": 4,
     "nbUsed": 1
   },
   {
     "name": "Or",
+    "image": "pepite_or",
     "nbStock": 8,
     "nbUsed": 2
   },
   {
     "name": "Poil de phacochère",
+    "image": "poil_phacochere",
     "nbStock": 3,
     "nbUsed": 4
   },
   {
     "name": "Trèfles à 4 feuilles",
+    "image": "trefle_4_feuilles",
     "nbStock": 11,
     "nbUsed": 2
   },
   {
     "name": "Défenses d'éléphant",
+    "image": "defenses_elephant",
     "nbStock": 7,
     "nbUsed": 2
   },
   {
     "name": "Hélium liquide",
+    "image": "helium_liquide",
     "nbStock": 4,
     "nbUsed": 3
   },
   {
     "name": "Mercure",
+    "image": "mercure",
     "nbStock": 5,
     "nbUsed": 3
   },
   {
-    "name": "Canabis",
+    "name": "Cannabis",
+    "image": "cannabis",
     "nbStock": 20,
     "nbUsed": 2
   },
   {
     "name": "Émeraude",
+    "image": "emeraude",
     "nbStock": 8,
     "nbUsed": 1
   },
   {
     "name": "Sel de l'Himalaya",
+    "image": "sel_himalaya",
     "nbStock": 13,
     "nbUsed": 2
   },
   {
     "name": "Plume de chocard",
+    "image": "plume_chocard",
     "nbStock": 17,
     "nbUsed": 2
   },
   {
     "name": "Corne de chamois",
+    "image": "chamoi",
     "nbStock": 11,
     "nbUsed": 1
   },
   {
     "name": "Poil de yéti",
+    "image": "poil_yeti",
     "nbStock": 17,
     "nbUsed": 1
   },
   {
     "name": "Queue de renard",
+    "image": "queue_renard",
     "nbStock": 1,
     "nbUsed": 3
   },
   {
     "name": "Edelweiss",
+    "image": "edelweiss",
     "nbStock": 12,
     "nbUsed": 3
   },
   {
     "name": "Diamant",
+    "image": "diamant",
     "nbStock": 1,
     "nbUsed": 2
   },
   {
     "name": "Cendres",
+    "image": "cendres",
     "nbStock": 5,
     "nbUsed": 2
   },
   {
     "name": "Safran",
+    "image": "safran",
     "nbStock": 8,
     "nbUsed": 3
   },
   {
     "name": "Pattes de pigeon",
+    "image": "patte_pigeon",
     "nbStock": 1,
     "nbUsed": 3
   },
   {
     "name": "Sang",
+    "image": "sang",
     "nbStock": 7,
     "nbUsed": 2
   }

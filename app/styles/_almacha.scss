@@ -1,3 +1,5 @@
+@import "inventory-174x60/*.png";
+
 // Generate the medium columns for a row of 5 columns
 @mixin make-md-column-5($columns, $gutter: $grid-gutter-width) {
   position: relative;
@@ -12,6 +14,8 @@
     width: percentage(($columns / 5));
   }
 }
+
+@include all-inventory-174x60-sprites;
 
 .inventory {
   @include make-md-column(9);

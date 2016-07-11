@@ -328,6 +328,23 @@ module.exports = function (grunt) {
     // concat: {
     //   dist: {}
     // },
+    
+    'resize_crop': {
+      'imageIngredients': {
+        options: {
+          format: "png",
+          gravity: "center",
+          height: 60,
+          width: 174
+        },
+        files: {
+          '<%= yeoman.app %>/images/inventory-174x60': [
+            '<%= yeoman.app %>/images/original/*.jpg',
+            '<%= yeoman.app %>/images/original/*.png'
+          ],
+        },
+      }
+    },
 
     imagemin: {
       dist: {
@@ -493,6 +510,7 @@ module.exports = function (grunt) {
     'clean:dist',
     'wiredep',
     'useminPrepare',
+    'resize_crop',
     'concurrent:dist',
     'postcss',
     'ngtemplates',

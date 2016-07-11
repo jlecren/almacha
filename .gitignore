@@ -3,3 +3,5 @@
 /.tmp
 /.sass-cache
 /bower_components
+app/images/original/.DS_Store
+app/images/inventory-174x60/.DS_Store
