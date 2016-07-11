@@ -29,7 +29,8 @@
       
       button {
         width: 100%;
-        min-height: 60px;
+        min-height: 80px;
+        padding: 0px;
       }
     }
     
@@ -38,13 +39,17 @@
   .inventory-item-title {
     position: relative;
     text-align: center;
-    top: -10px;
+    top: 29px;
+    background-color: #EFEFEF;
+    color: black;
+    width: 100%;
+    border-radius: 0px 0px 3px 3px;
   }
   
   .inventory-item-used {
     position: absolute;
-    right: 10px;
-    bottom: 5px;
+    right: 5px;
+    top: 5px;
   }
     
 }

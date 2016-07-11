@@ -6,8 +6,8 @@
       <ul>
         <li ng-repeat="item in listInventoryItems()">
           <button ng-click="addIngredientToMix( item )" class="btn btn-primary inventory-174x60-{{ item.image }}">
-            <span class="inventory-item-title">{{ item.nbStock }} {{ item.name }}</span>
-            <span class="inventory-item-used">({{ item.nbUsed }})</span>
+            <div class="inventory-item-title">{{ item.nbStock + item.nbUsed }} {{ item.name }}</div>
+            <div class="inventory-item-used label" ng-class="{'label-success': item.nbStock > 1, 'label-warning': item.nbStock === 1, 'label-default': item.nbStock === 0 }">{{ item.nbStock }}</div>
           </button>
         </li>
       </ul>
