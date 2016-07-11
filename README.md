@@ -1,4 +1,4 @@
-# Almacha : The Alchemy Machine
+# Almacha : The Alchemy Machine (http://almacha.joranlecren.me/)
 
 This project aims to demonstrate the usage of some front-end technologies:
 * Angular 1
